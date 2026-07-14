@@ -1,8 +1,6 @@
 venv/
 __pycache__/
 *.pyc
-outputs/model.pkl
-data/processed/
-outputs/customers_scored.csv
+ 
 .streamlit/
-data/raw/*.csv
+ 
